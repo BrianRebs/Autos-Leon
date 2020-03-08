@@ -18,7 +18,4 @@ mail($EmailTo, $Subject, $Body, "From:".$email);
 header("Location: index.html?mailsend");
 }
 
-echo('Mail Enviado');
-
-
 ?>

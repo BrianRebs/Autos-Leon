@@ -1581,8 +1581,6 @@ a:hover.back-to-top {
 /*     21. Media Queries     */
 /*****************************/	
 
-/******************************************************/
-
 /* Min-width width 768px */
 @media (min-width: 768px) {
 	
@@ -1710,10 +1708,7 @@ a:hover.back-to-top {
 		text-align: left;
 	}
 
-	.counter #counter .cell {
-	}
 	/* end of about */
-
 
 	/* Contact */
 	.form-2 .list-unstyled li {
@@ -1725,7 +1720,6 @@ a:hover.back-to-top {
 		display: block;
 	}
 	/* end of contact */
-
 
 	/* Extra Pages */
 	.ex-header {
