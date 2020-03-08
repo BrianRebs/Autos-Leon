@@ -651,7 +651,6 @@ input[type='checkbox'] {
 .navbar-custom .navbar-brand.logo-image img {
     width: 12.0625rem;
 	height: 2rem;
-	-webkit-backface-visibility: hidden;
 }
 
 .navbar-custom .navbar-brand.logo-text {
@@ -1677,15 +1676,6 @@ a:hover.back-to-top {
 		max-width: 70%;
 	}
 	/* end of details 1 */
-
-
-	/* Details 2 */
-	.tabs .tabs-container {
-		/* max-width: 10%; */
-		/* border: red 4px solid; */
-	}
-
-	/* end of details 2 */
 
 	/* Projects */
 	.filter .element-item { 
