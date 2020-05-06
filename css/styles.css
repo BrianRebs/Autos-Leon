@@ -2145,3 +2145,16 @@ a:hover.back-to-top {
 }
 
 /* end of min-width width 1200px */
+#whatsapp {
+	position: fixed;
+    right: 20px;
+    width: 50px;
+    bottom: 20px;
+    z-index: 1000;
+}
+
+#whatsapp img {
+	width: 100%;
+	height: auto;
+}
+
